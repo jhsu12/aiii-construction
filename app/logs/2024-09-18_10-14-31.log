@@ -1,0 +1,2 @@
+2024-09-18 10:14:36,533 - api.v1.endpoints.example_post - INFO - Received request with data: 大樓工程中的假設工程中的子工程，施工便道工程需要的檢查表有哪些？
+2024-09-18 10:14:36,571 - api.v1.endpoints.example_post - ERROR - Error during processing: cannot access local variable 'db' where it is not associated with a value
