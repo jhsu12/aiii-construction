@@ -39,7 +39,7 @@ Ans: 基地整地需要開挖作業安全檢查表, 露天開挖作業安全檢�
 ## Database Design
 
 Since the company stores the data currently in excel, we need to design the database for them.
-For the overall database design, please refer to ![Database Design](./v1.0/database_introduction.md)
+For the overall database design, please refer to ![Database Design](./database_introduction.md)
 
 ## Further Works
 
